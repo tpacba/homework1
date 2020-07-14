@@ -6,6 +6,7 @@
 
 body {
     background-color: #d9dcd6;
+    width: 1440px; /* set a width to avoid resizing */
 }
 
 .header {
